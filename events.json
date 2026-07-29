@@ -1,0 +1,26 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "A sample repository for GitHub beginners.",
+    "url": "https://github.com/octocat/Hello-World",
+    "stars": 1730,
+    "language": "JavaScript",
+    "starredAt": "2026-07-29"
+  },
+  {
+    "name": "torvalds/linux",
+    "description": "Linux kernel source tree.",
+    "url": "https://github.com/torvalds/linux",
+    "stars": 159000,
+    "language": "C",
+    "starredAt": "2026-07-15"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code editor.",
+    "url": "https://github.com/microsoft/vscode",
+    "stars": 160000,
+    "language": "TypeScript",
+    "starredAt": "2026-07-20"
+  }
+]
